@@ -1,5 +1,3 @@
-Certainly, harri91! Here's a sample GitHub introduction:
-
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this page, you'll find a collection of my open-source projects, ranging from small utilities to full-fledged applications.
 
 One of my favorite projects is a Python library for data analysis, which I developed during my time as a graduate student. It includes a variety of tools for cleaning, transforming, and visualizing data, as well as machine learning algorithms for predictive modeling.
